@@ -9,3 +9,26 @@ body{
 }
 
 h1{color: aqua;}
+
+
+
+
+
+
+.blo{
+    width:400px;
+    height:600px;
+    
+    position:fixed;
+    right: 10px;
+    bottom:10px;
+    border:5px solid #464646;
+
+    background-image:url("/img/chat_f.jpg");
+    background-position: center center;    
+    background-repeat:no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    background-color: #ff0000; 
+
+}
